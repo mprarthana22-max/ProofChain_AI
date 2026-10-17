@@ -46,6 +46,7 @@ data/ models/ reports/   (generated)
 ```
 
 ## Open-source libraries
+
 pandas, numpy, scikit-learn, joblib, streamlit, hashlib/hmac (Python standard library), optional: transformers (google/flan-t5-base).
 =======
 # ProofChain_AI
