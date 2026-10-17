@@ -1,8 +1,14 @@
- HEAD
+#Datathon
 # ProofChain AI
 
-AI that decides whether digital evidence is trustworthy enough to use.
+**Team:** 404! Founders | **IBM Z Datathon 2026** | **Event code:** SSF2026
+**Challenge:** AI Secured: Innovation Without Exposure
+
+>AI that decides whether digital evidence is trustworthy enough to use.
 Built for the IBM Z Datathon 2026 (theme: AI Secured - Innovation Without Exposure). Event code: SSF2026
+
+## Problem
+Organizations make decisions from spreadsheets and reports, but a value can be silently changed, a source can go missing, or two versions can conflict, and nobody notices until the decision is wrong. A plain "the file differs" check can't tell a legitimate, documented edit from a silent one.
 
 ## What it does
 1. **Hash chain** - SHA-256 of each approved file, linked and HMAC-signed. Any change to a file is detected.
@@ -42,3 +48,5 @@ data/ models/ reports/   (generated)
 pandas, numpy, scikit-learn, joblib, streamlit, hashlib/hmac (Python standard library), optional: transformers (google/flan-t5-base).
 =======
 # ProofChain_AI
+
+IBM Z/Linuxone
