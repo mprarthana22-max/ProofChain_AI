@@ -1,8 +1,9 @@
 #Datathon
-# ProofChain AI
 
 **Team:** 404! Founders | **IBM Z Datathon 2026** | **Event code:** SSF2026
 **Challenge:** AI Secured: Innovation Without Exposure
+
+# ProofChain AI
 
 >AI that decides whether digital evidence is trustworthy enough to use.
 Built for the IBM Z Datathon 2026 (theme: AI Secured - Innovation Without Exposure). Event code: SSF2026
