@@ -1,0 +1,7 @@
+Inventory Report
+Item: Laptop
+Registered Quantity: 125
+Physical Quantity: 121
+Discrepancy: 0
+Source: Inventory Register Page 4
+Recommendation: No corrective action required.

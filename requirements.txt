@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
+# optional, for a real local LLM explanation (needs internet once to download the model):
+# transformers
+# torch
